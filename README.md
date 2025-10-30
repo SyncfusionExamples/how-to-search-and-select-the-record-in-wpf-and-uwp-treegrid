@@ -1,6 +1,6 @@
-# How to search and select the record in wpf and uwp treegrid?
+# How to Search and Select the Record in WPF and UWP TreeGrid?
 
-This example illustrates how to search and select the record in [WPF TreeGrid](https://www.syncfusion.com/wpf-controls/treegrid) and [UWP TreeGrid](https://www.syncfusion.com/uwp-ui-controls/treegrid).
+This example illustrates how to search and select the record in [WPF TreeGrid](https://www.syncfusion.com/wpf-controls/treegrid) and [UWP TreeGrid](https://www.syncfusion.com/uwp-ui-controls/treegrid) (SfTreeGrid).
 
 You can search and select a record in `TreeGrid` based on the searched text using the `TextChanged` event of `TextBox`.
 
